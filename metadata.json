@@ -1,0 +1,6 @@
+{
+  "name": "Premium HTML5 Gaming Platform",
+  "description": "A feature-rich, high-performance dark-themed HTML5 game portal inspired by modern gaming platforms. Features a virtual wallet, player profile system, daily rewards, achievements, and multiple fully-playable interactive games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
